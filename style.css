@@ -1,0 +1,9 @@
+h3 {
+  text-align: center;
+}
+
+a.navbar-brand {
+  color: red;
+  font-weight: bold;
+  text-decoration: underline;
+}
