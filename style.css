@@ -6,3 +6,17 @@ a.navbar-brand {
   font-weight: bold;
   text-shadow: 1px 1px grey;
 }
+.green {
+  color: green;
+  font-weight: bold;
+}
+.red {
+  color:red;
+  font-weight: bold;
+}
+.green1 {
+  color: green;
+}
+.red1 {
+  color:red;
+}
